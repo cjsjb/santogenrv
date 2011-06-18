@@ -20,7 +20,7 @@
 		a' 4. gis' 8 ~ gis' 4 r  |
 %% 5
 		gis' 4. fis' 8 ~ fis' 4 r  |
-		\times 2/3 { a' 4 gis' fis' } e' 8. b r8  |
+		\times 2/3 { a' 4 gis' fis' } e' 8. ( b ) r8  |
 		cis' 8 e' e' fis' gis' 4 b'  |
 		a' 4. gis' 8 ~ gis' 4 r  |
 		gis' 4. fis' 8 ~ fis' 4 r8 b  |
@@ -35,7 +35,7 @@
 		gis' 4 ( a' ) b' 2  |
 		a' 4. gis' 8 ~ gis' 4 r  |
 		gis' 4. fis' 8 ~ fis' 4 r  |
-		\times 2/3 { a' 4 gis' fis' } e' 8. b r8  |
+		\times 2/3 { a' 4 gis' fis' } e' 8. ( b ) r8  |
 %% 20
 		cis' 8 e' e' fis' gis' 4 b'  |
 		a' 4. gis' 8 ~ gis' 4 r  |
@@ -47,7 +47,7 @@
 		\times 2/3 { r4 fis' fis' } \times 2/3 { fis' e' dis' }  |
 		\times 2/3 { cis' 4 e' e' ~ } e' 8 dis' r cis'  |
 		b 4 gis' gis' fis' 8 fis' ~  |
-		fis' 8 e' ( dis' 2 ) r8 b  |
+		fis' 8 ( e' dis' 2 ) r8 b  |
 %% 30
 		\times 2/3 { e' 4 e' e' } \times 2/3 { dis' cis' b }  |
 		\times 2/3 { cis' 4 cis' 2 ~ } cis' 4 r8 cis'  |
@@ -67,31 +67,31 @@
 
 		% santo...
 		San -- to, __ san -- to, __
-		san -- "to il" Si -- gno -- re,
-		Dio del -- l'u -- ni -- ver -- so.
+		san -- "to el" Se -- ñor, __
+		Dios del u -- ni -- ver -- so.
 		San -- to, __ san -- to. __
-		I cie -- "li e" la ter -- ra
-		so -- no pie -- ni del -- la tu -- a glo -- ria.
+		El cie -- "lo y" la tie -- rra
+		es -- tán lle -- nos de tu san -- ta glo -- ria.
 
-		% osanna...
-		O -- san -- na nel -- l'al -- to dei cie -- li, __
-		O -- san -- na nel -- l'al -- to dei cie __ li.
+		% hosanna...
+		Ho -- san -- "na en" lo al -- to del cie -- lo, __
+		Ho -- san -- "na en" lo al -- to del cie __ lo.
 
 		% santo...
 		San -- to, __ san -- to, __
-		san -- "to il" Si -- gno -- re,
-		Dio del -- l'u -- ni -- ver -- so.
+		san -- "to el" Se -- ñor, __
+		Dios del u -- ni -- ver -- so.
 		San -- to, __ san -- to. __
-		I cie -- "li e" la ter -- ra
-		so -- no pie -- ni del -- la tu -- a glo -- ria.
+		El cie -- "lo y" la tie -- rra
+		es -- tán lle -- nos de tu san -- ta glo -- ria.
 
 		% benedetto...
-		Be -- ne -- det -- to -- Co -- lui che -- vie -- ne
-		nel no -- me del Si -- gno -- re. __
+		Bien -- a -- ven -- tu -- ra -- "do el" que vie -- ne
+		en nom -- bre del Se -- ñor __
 
-		% osanna...
-		O -- san -- na nel -- l'al -- to dei cie -- li, __
-		O -- san -- na nel -- l'al -- to dei cie __ li.
+		% hosanna...
+		Ho -- san -- "na en" lo al -- to del cie -- lo, __
+		Ho -- san -- "na en" lo al -- to del cie __ lo.
 
 		% santo...
 		San -- to, __ san -- to, __
