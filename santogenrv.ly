@@ -28,7 +28,10 @@ globalTempo = {
 		\override Score.NoteColumn #'force-hshift = #1.0
 
 		\include "santogenrv-acordes.inc"
-		\include "santogenrv-voz.inc"
+		\include "santogenrv-soprano.inc"
+		\include "santogenrv-mezzosoprano.inc"
+		\include "santogenrv-tenor.inc"
+		\include "santogenrv-baritono.inc"
 
 	>>
 
