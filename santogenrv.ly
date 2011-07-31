@@ -29,7 +29,7 @@ globalTempo = {
 
 		\include "santogenrv-acordes.inc"
 		\include "santogenrv-soprano.inc"
-		\include "santogenrv-mezzosoprano.inc"
+		\include "santogenrv-mezzo.inc"
 		\include "santogenrv-tenor.inc"
 		\include "santogenrv-baritono.inc"
 
