@@ -23,7 +23,7 @@
 		a2 b2:/a  |
 		fis1:m7  |
 %% 15
-		a2:/b a  |
+		a2 a:/b  |
 
 		% santo...
 		a4. e8 ~ e2  |
@@ -48,7 +48,7 @@
 		a2 b2:/a  |
 		a2 b2:/a  |
 		fis1:m7  |
-		a2:/b a  |
+		a2 a:/b  |
 		a4. e8 ~ e2  |
 		cis4.:m b8 ~ b2  |
 %% 35
