@@ -60,7 +60,7 @@
 		\bar "|."
 		}
 
-	\lyricsto "voz-mezzosoprano" \new Lyrics \lyricmode {
+	\new Lyrics \lyricsto "voz-mezzosoprano" {
 		% santo...
 		San -- to, san -- to,
 		san -- "to el" Se -- ñor,

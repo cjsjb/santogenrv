@@ -61,7 +61,7 @@
 		\bar "|."
 	}
 
-	\lyricsto "voz-part" \new Lyrics \lyricmode {
+	\new Lyrics \lyricsto "voz-part" {
 		% intro
 		" " " " " " " " " " " " " " " " " " " "
 
